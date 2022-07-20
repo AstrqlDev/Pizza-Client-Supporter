@@ -1,4 +1,6 @@
-- Download: https://github.com/AstrqlDev/Pizza-Client/releases/tag/Release
+- Download: https://github.com/AstrqlDev/Pizza-Client-Supporter/releases/tag/Release
+
+NEW NOTABLE (SUPPORTER) FEATURES: Auto SS Floor 7/M7, better macros, better failsafes, better blood mob triggerbot, and more!
 
 Most notable features: (all auras and nukers use fake rotation packets) -Qol ice fill (still somewhat wip, works great for 150 or less ping) -Spirit Bear Aura (with triggerbot once a spirit bear spawns) -Simon Says Aura -Good Terminals -Mithril Macro -Gemstone Macro (still wip) -Nuker (good to use on hypixel) -Powder Macro (everything automatic, uses nuker for the block breaking) -Crop Aura (auto places any crop)
 
